@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\bin\Debug\net8.0\GestionDeProductos.exe
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\bin\Debug\net8.0\GestionDeProductos.deps.json
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\bin\Debug\net8.0\GestionDeProductos.runtimeconfig.json
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\bin\Debug\net8.0\GestionDeProductos.dll
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\bin\Debug\net8.0\GestionDeProductos.pdb
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\obj\Debug\net8.0\GestionDeProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\obj\Debug\net8.0\GestionDeProductos.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\obj\Debug\net8.0\GestionDeProductos.AssemblyInfo.cs
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\obj\Debug\net8.0\GestionDeProductos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\obj\Debug\net8.0\GestionDeProductos.dll
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\obj\Debug\net8.0\refint\GestionDeProductos.dll
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\obj\Debug\net8.0\GestionDeProductos.pdb
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\obj\Debug\net8.0\GestionDeProductos.genruntimeconfig.cache
+C:\Users\Dell\source\repos\GestionDeProductos\GestionDeProductos\obj\Debug\net8.0\ref\GestionDeProductos.dll
